@@ -1,5 +1,5 @@
 # Loan Data from Prosper Exploration
-## by David Samy Mahrous Yacoub
+## by David Yacoub
 
 
 ## Dataset
