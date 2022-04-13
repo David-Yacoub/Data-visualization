@@ -35,4 +35,4 @@ Do not be surprised but I found that home ownership gives an opportunity for a b
 
 Dataset is cleaning very well the one thing I did is explain the labels of Distribution of Listing Category because it's written with coded numbers.
 
-I uset the codes wich written at project example here: https://video.udacity-data.com/topher/2018/August/5b7de78c_communicate-data-example-project/communicate-data-example-project.zip this helped me to code my ideas.# Data-visualization
+I uset the codes wich written at project example here: https://video.udacity-data.com/topher/2018/August/5b7de78c_communicate-data-example-project/communicate-data-example-project.zip this helped me to code my ideas.# Data-visualization.
