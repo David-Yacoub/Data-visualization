@@ -18,7 +18,7 @@ we can see if the borrower own a home or not, have a little influence on the num
 - the most occubation of borrower is Proffessionl then coumputer programer then Executive then teacher an go on as at the chart
 - We see that the most borrow the loan to consolidation there debit then the most need to improve there homes then busines then to the car and go on.
 - I see that Borrowers are repaying well, not many clients are defaulting and very few loans have been canceled
-- from loan date we can see the work is good start from 2006 then at 2008 because The global economic crisis the loans cound decreased until 2010 then the economy refresed till 2013 and a jump happened with 2014
+- from loan date we can see the work is good start from 2006 then at 2008 because The global economic crisis the loans cound decreased until 2010 then the economy refresed till 2013 and a jump happened with 2014.
 I expected more irregularity in payment than this! the Distribution of Listing Category need to explain the labels because it's written with coded numbers. Also there is borrower with monthly income 1,750,000 (I don't expect this is a error because no erros like that in mone and the next income is 6185,47) but No one expects the actions of businessmen.
 There is no clear (linear) relationship between the monthly income and the amount of the loan as I expected because it is clear that loans in the United States are easy to adopt, unlike my place of residence, I can see that who have minimum income take more loans with the minimum amount and. Also the smalest values (low income, small loan) have a high density
 
